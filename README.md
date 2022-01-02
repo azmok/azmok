@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 📚 I'm currently learning React, Svelt.
-- 🤖 I'm currently interested in Machine Learning
+- 📚 Currently learning React(js), Svelt(js).
+- 🤖 Currently interested in Machine Learning
 - 🚀 At last, gonna start self-employed career in this year! 😎✨
 
 <!--
