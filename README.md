@@ -2,7 +2,7 @@
 
 - 📚 Currently learning React(js), Svelt(js).
 - 🤖 Currently interested in Machine Learning
-- 🚀 At last, gonna start self-employed career in this year! 😎✨
+- 🚀 Gonna start self-employed career in this year! 😎✨
 
 <!--
 **azmok/azmok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
